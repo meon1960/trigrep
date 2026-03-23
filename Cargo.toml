@@ -1,0 +1,3 @@
+[workspace]
+members = ["trigrep-index", "trigrep-cli"]
+resolver = "2"
