@@ -10,6 +10,7 @@ pub struct SearchMatch {
 }
 
 /// Output format options.
+#[allow(dead_code)]
 pub struct OutputConfig {
     pub json: bool,
     pub count_only: bool,
